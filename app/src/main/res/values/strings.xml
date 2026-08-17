@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nagpur Suraksha</string>
+    <string name="default_web_client_id">478106574221-nagpur-suraksha.apps.googleusercontent.com</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_title">Nagpur Suraksha Login</string>
+</resources>
+
